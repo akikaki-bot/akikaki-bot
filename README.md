@@ -1,8 +1,8 @@
--Hi I'm akikaki desu !!!!
--Japan ni sunndemasu !
--iroiroyattemasu!!!
--English wakarima sen!!!
--sry!!!
+- Hi I'm akikaki desu !!!!
+- Japan ni sunndemasu !
+- iroiroyattemasu!!!
+- English wakarima sen!!!
+- sry!!!
 
 
 
