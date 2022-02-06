@@ -1,12 +1,24 @@
-- Hi I'm akikaki desu !!!!
-- Japan ni sunndemasu !
-- iroiroyattemasu!!!
-- English wakarima sen!!!
-- sry!!!
+## あきかきさんです
+- だれ？
 
+A.あきかきさんです
 
+- なにやってるの？
+
+A.いろいろやってます
+
+## つかうげんご
+- Javascript
+- Typescript
+
+このぐらいしかできない糞雑魚プログラマー（笑）です！
 
 <!---
-akikaki-bot/akikaki-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+どうも！これを見ている方！
+私のこともっと知りたい？知りたいでしょ？知りたいよね？
+そうだね！じゃあなにする？
+https://twitter.com/tensai_akikaki
+↑ついったーだよ！よかったら！
+
 --->
