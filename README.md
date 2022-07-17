@@ -21,7 +21,7 @@ A.いろいろやってます
 
 [Progress](https://github.com/akikaki-bot/Progress)
 
-##アプリ集
+## アプリ集
 [EarthQuake Infomation](http://www.jpeq.ml)
 
 [ろるけいさん ※本人確認してない](https://rollmath.akika.ga)
