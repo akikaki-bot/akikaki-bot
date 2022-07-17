@@ -28,7 +28,7 @@ A.いろいろやってます
 
 [やすみをみたい](https://holidays.f5.si)
 
-[でんきのしようりょう](https://energy-usage.f5.si)
+[でんきのしようりょう](http://energy-usage.f5.si)
 
 ## DiscordBot関連
 
