@@ -1,4 +1,4 @@
-## あきかきさんです
+## HELLO!EVERYONE
 - だれ？
 
 A.あきかきさんです
@@ -10,13 +10,30 @@ A.いろいろやってます
 ## つかうげんご
 - Javascript
 - Typescript
+- Html
+- CSS
 
-このぐらいしかできない糞雑魚プログラマー（笑）です！
+## りんくしゅう
+[links.akika.ga](https://links.akika.ga)
 
 ## 主要リポジトリ～
 [WebHookEasySend](https://github.com/akikaki-bot/webhook_easy_send)
 
 [Progress](https://github.com/akikaki-bot/Progress)
+
+##アプリ集
+[EarthQuake Infomation](http://www.jpeq.ml)
+
+[ろるけいさん ※本人確認してない](https://rollmath.akika.ga)
+
+[やすみをみたい](https://holidays.f5.si)
+
+[でんきのしようりょう](https://energy-usage.f5.si)
+
+## DiscordBot関連
+
+[ぷらいすれす！](https://priceless.f5.si)
+
 <!---
 
 どうも！これを見ている方！
