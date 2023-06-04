@@ -13,6 +13,11 @@ A.いろいろやってます
 - Html
 - CSS
 
+# HTMLがなぜか大半を占めているけどやっぱりわたしはTypeScript（？）
+![Image](https://github-readme-stats.vercel.app/api?username=akikaki-bot&count_private=true)
+![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=akikaki-bot&layout=compact)
+
+
 ## りんくしゅう
 [links.akika.ga](https://links.akika.ga)
 
