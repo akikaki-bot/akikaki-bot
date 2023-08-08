@@ -19,25 +19,23 @@ A.いろいろやってます
 
 
 ## りんくしゅう
-[links.akika.ga](https://links.akika.ga)
+(いまない)
 
 ## 主要リポジトリ～
-[WebHookEasySend](https://github.com/akikaki-bot/webhook_easy_send)
+
+[MisTsKey](https://github.com/akikaki-bot/MisTsKey)
+
+[P2PWebSocketClient](https://github.com/akikaki-bot/p2pws_getter)
+
+[WebSocketEasySend](https://github.com/akikaki-bot/webhook_easy_send)
 
 [Progress](https://github.com/akikaki-bot/Progress)
 
 ## アプリ集
-[EarthQuake Infomation](http://www.jpeq.ml)
-
-[ろるけいさん ※本人確認してない](https://rollmath.akika.ga)
 
 [やすみをみたい](https://holidays.f5.si)
 
 [でんきのしようりょう](http://energy-usage.f5.si)
-
-## DiscordBot関連
-
-[ぷらいすれす！](https://priceless.f5.si)
 
 <!---
 
