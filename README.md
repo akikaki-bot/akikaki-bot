@@ -19,8 +19,7 @@ A.いろいろやってます
 
 
 ## りんくしゅう
-(いまない)
-
+[aknet.tech](https://links.aknet.tech)
 ## 主要リポジトリ～
 
 [MisTsKey](https://github.com/akikaki-bot/MisTsKey)
