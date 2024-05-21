@@ -1,40 +1,24 @@
-## HELLO!EVERYONE
-- だれ？
+# 禍
 
-A.あきかきさんです
+I LOVE TYPESCRIPT and Next.js and TailwindCSS and TYPESCRIPT
 
-- なにやってるの？
+# こうけんど（みえる）
 
-A.いろいろやってます
-
-## つかうげんご
-- Javascript
-- Typescript
-- Html
-- CSS
-
-# HTMLがなぜか大半を占めているけどやっぱりわたしはTypeScript（？）
 ![Image](https://github-readme-stats.vercel.app/api?username=akikaki-bot&count_private=true)
 ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=akikaki-bot&layout=compact)
 
+# my works
 
-## りんくしゅう
-[aknet.tech](https://links.aknet.tech)
-## 主要リポジトリ～
+https://dev.shizen.lol/
 
-[MisTsKey](https://github.com/akikaki-bot/MisTsKey)
+https://shizen.lol/
 
-[P2PWebSocketClient](https://github.com/akikaki-bot/p2pws_getter)
+https://www.yuranu.net/
 
-[WebSocketEasySend](https://github.com/akikaki-bot/webhook_easy_send)
+... and Other...
 
-[Progress](https://github.com/akikaki-bot/Progress)
-
-## アプリ集
-
-[やすみをみたい](https://holidays.f5.si)
-
-[でんきのしようりょう](http://energy-usage.f5.si)
+## おれ
+[me.aknet.tech](https://me.aknet.tech)
 
 <!---
 
