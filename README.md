@@ -1,7 +1,7 @@
 # Hi there👋
 
 - My name is akikaki or ka (禍)
-- I'm more of a frontend engineer using React, Next.js, TailwindCSS
+- I'm more of a frontend engineer, working with React, Next.js, TailwindCSS
 
 more details, [check my portfolio](https://akikaki.net)
 
