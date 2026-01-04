@@ -1,6 +1,9 @@
-# 禍
+# Hi there👋
 
-I LOVE TYPESCRIPT and Next.js and TailwindCSS and TYPESCRIPT
+- My name is akikaki or ka (禍)
+- I'm more of a frontend engineer using React, Next.js, TailwindCSS
+
+more details, [check my portfolio](https://akikaki.net)
 
 # いろいろ
 
